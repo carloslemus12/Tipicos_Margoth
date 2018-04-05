@@ -9,3 +9,6 @@ Informacion relevante:
 4. Se manejara un sistema de votacion por estrellas esto es asi pues podemos usar un solo campo para guardar esa informacion y que los platillos se ven mejor con estrellas
 
 Cualquiera puede hacer cambios al diseño solo que avisen cuando lo hagan.
+
+# Diagrama de clases
+He agregado el diagrama de clases, revisen y me mandan sus opiniones para modificarlo
